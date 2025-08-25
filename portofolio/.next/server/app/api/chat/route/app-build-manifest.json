@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "/api/chat/route": [
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_45be31cc._.js",
+      "static/chunks/5c7a8_next_dist_compiled_react-dom_8a2f90b0._.js",
+      "static/chunks/5c7a8_next_dist_compiled_next-devtools_index_e87a4bd5.js",
+      "static/chunks/5c7a8_next_dist_compiled_1cbc1d9d._.js",
+      "static/chunks/5c7a8_next_dist_client_afa4192a._.js",
+      "static/chunks/5c7a8_next_dist_734caa63._.js",
+      "static/chunks/5c7a8_@swc_helpers_cjs_89e91651._.js",
+      "static/chunks/Downloads_portofolio_portofolio_a0ff3932._.js",
+      "static/chunks/turbopack-Downloads_portofolio_portofolio_8f984792._.js"
+    ]
+  }
+}
