@@ -1,0 +1,23 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/75be6_next_dist_c8bd4473._.js",
+      "static/chunks/OneDrive_Documents_test_src_app_favicon_ico_mjs_fdce4cbd._.js",
+      "static/chunks/[root-of-the-server]__8d29c142._.css",
+      "static/chunks/OneDrive_Documents_test_src_app_layout_c350a96a.js",
+      "static/chunks/75be6_next_dist_client_components_builtin_global-error_f814e0c5.js",
+      "static/chunks/75be6_9258a445._.js",
+      "static/chunks/OneDrive_Documents_test_src_app_page_b5e482d1.js",
+      "static/chunks/OneDrive_Documents_test_src_app_page_f814e0c5.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_699bfc6e._.js",
+      "static/chunks/75be6_next_dist_compiled_react-dom_bd4a53a2._.js",
+      "static/chunks/75be6_next_dist_compiled_next-devtools_index_b6ecdec8.js",
+      "static/chunks/75be6_next_dist_compiled_b753dbcf._.js",
+      "static/chunks/75be6_next_dist_client_ce8ff94e._.js",
+      "static/chunks/75be6_next_dist_855007ee._.js",
+      "static/chunks/75be6_@swc_helpers_cjs_89a7e858._.js",
+      "static/chunks/OneDrive_Documents_test_a0ff3932._.js",
+      "static/chunks/turbopack-OneDrive_Documents_test_990fd062._.js"
+    ]
+  }
+}
